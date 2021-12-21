@@ -1,0 +1,27 @@
+{
+  "name": "translate-bot",
+  "version": "1.0.0",
+  "description": "Deeplを叩いて翻訳するDiscord BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HidemaruOwO/translate-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HidemaruOwO/translate-bot/issues"
+  },
+  "homepage": "https://github.com/HidemaruOwO/translate-bot#readme",
+  "dependencies": {
+    "deepl": "^1.0.13",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.2"
+  }
+}
